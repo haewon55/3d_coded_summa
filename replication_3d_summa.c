@@ -269,7 +269,6 @@ int main(int argc, char **argv) {
 
 
 
-	printf("%d: (x,y,z) = (%d, %d, %d), rank = [%d, %d, %d] , color = (%d, %d, %d)\n", world_rank, x, y, z, x_rank, y_rank, z_rank, color_x, color_y, color_z);
 	/** 
 	 *  Defining Matrix Dimensions 
 	 *  Matrices A, B are m-by-m. 
