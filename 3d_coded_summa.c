@@ -353,8 +353,7 @@ int main(int argc, char **argv) {
 	int z_rank, z_size;
 	MPI_Comm_rank(z_comm, &z_rank);
 	MPI_Comm_size(z_comm, &z_size); 
-
-	printf("%d: (x,y,z) = (%d, %d, %d), color = (%d, %d, %d)\n", world_rank, x_rank, y_rank, z_rank, color_x, color_y, color_z);
+	
 	/** 
 	 *  Defining Matrix Dimensions 
 	 *  Matrices A, B are m-by-m. 
@@ -634,6 +633,8 @@ int main(int argc, char **argv) {
 
 		assert(NULL != A_temp);
 
+		
+		printf("(%d, %d, %d): x-broadcast from: (%d/%d), size: %d\n", x_rank, y_rank, z_rank, iteration, x_size, local_mat_size); 
 		MPI_Barrier(x_comm);
 		MPI_Bcast(A_temp, local_mat_size, MPI_DOUBLE, iteration, x_comm);
 
