@@ -634,7 +634,6 @@ int main(int argc, char **argv) {
 		assert(NULL != A_temp);
 
 		
-		printf("Iteration %d: (%d, %d, %d): x-broadcast from: (%d/%d) on %d, size: %d\n", iteration, x_rank, y_rank, z_rank, iteration, x_size, color_x, local_mat_size); 
 		MPI_Barrier(x_comm);
 		MPI_Bcast(A_temp, local_mat_size, MPI_DOUBLE, iteration, x_comm);
 
@@ -645,7 +644,6 @@ int main(int argc, char **argv) {
 
 		assert (NULL != B_temp); 
 
-		printf("Iteration %d: (%d, %d, %d): y-broadcast from: (%d/%d) on %d, size: %d\n", iteration, x_rank, y_rank, z_rank, iteration, y_size, color_y, local_mat_size); 
 		MPI_Barrier(y_comm);
 		MPI_Bcast(B_temp, local_mat_size, MPI_DOUBLE, iteration, y_comm);
 
