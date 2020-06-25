@@ -1,0 +1,577 @@
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] Total memory: 6912 Bytes 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] Total memory: 3456 Bytes 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] Total memory: 3456 Bytes 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] Total memory: 3456 Bytes 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] Total memory: 6912 Bytes 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] Total memory: 3456 Bytes 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] Total memory: 3456 Bytes 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] Total memory: 3456 Bytes 
+[Rank 8 (2, 2, 0) at node1] Total memory: 6912 Bytes 
+[Rank 9 (1, 2, 1) at node1] Total memory: 3456 Bytes 
+[Rank 10 (0, 2, 2) at node1] Total memory: 3456 Bytes 
+[Rank 11 (3, 2, 3) at node1] Total memory: 3456 Bytes 
+[Rank 12 (1, 3, 0) at node1] Total memory: 6912 Bytes 
+[Rank 13 (0, 3, 1) at node1] Total memory: 3456 Bytes 
+[Rank 14 (3, 3, 2) at node1] Total memory: 3456 Bytes 
+[Rank 15 (2, 3, 3) at node1] Total memory: 3456 Bytes 
+[Rank 16 (1, 0, 0) at node2] Total memory: 6912 Bytes 
+[Rank 17 (0, 0, 1) at node2] Total memory: 3456 Bytes 
+[Rank 18 (3, 0, 2) at node2] Total memory: 3456 Bytes 
+[Rank 19 (2, 0, 3) at node2] Total memory: 3456 Bytes 
+[Rank 20 (0, 1, 0) at node2] Total memory: 6912 Bytes 
+[Rank 21 (3, 1, 1) at node2] Total memory: 3456 Bytes 
+[Rank 22 (2, 1, 2) at node2] Total memory: 3456 Bytes 
+[Rank 23 (1, 1, 3) at node2] Total memory: 3456 Bytes 
+[Rank 24 (3, 2, 0) at node3] Total memory: 6912 Bytes 
+[Rank 25 (2, 2, 1) at node3] Total memory: 3456 Bytes 
+[Rank 26 (1, 2, 2) at node3] Total memory: 3456 Bytes 
+[Rank 27 (0, 2, 3) at node3] Total memory: 3456 Bytes 
+[Rank 28 (2, 3, 0) at node3] Total memory: 6912 Bytes 
+[Rank 29 (1, 3, 1) at node3] Total memory: 3456 Bytes 
+[Rank 30 (0, 3, 2) at node3] Total memory: 3456 Bytes 
+[Rank 31 (3, 3, 3) at node3] Total memory: 3456 Bytes 
+[Rank 32 (2, 0, 0) at node4] Total memory: 6912 Bytes 
+[Rank 33 (1, 0, 1) at node4] Total memory: 3456 Bytes 
+[Rank 34 (0, 0, 2) at node4] Total memory: 3456 Bytes 
+[Rank 35 (3, 0, 3) at node4] Total memory: 3456 Bytes 
+[Rank 36 (1, 1, 0) at node4] Total memory: 6912 Bytes 
+[Rank 37 (0, 1, 1) at node4] Total memory: 3456 Bytes 
+[Rank 38 (3, 1, 2) at node4] Total memory: 3456 Bytes 
+[Rank 39 (2, 1, 3) at node4] Total memory: 3456 Bytes 
+[Rank 40 (0, 2, 0) at node5] Total memory: 6912 Bytes 
+[Rank 41 (3, 2, 1) at node5] Total memory: 3456 Bytes 
+[Rank 42 (2, 2, 2) at node5] Total memory: 3456 Bytes 
+[Rank 43 (1, 2, 3) at node5] Total memory: 3456 Bytes 
+[Rank 44 (3, 3, 0) at node5] Total memory: 6912 Bytes 
+[Rank 45 (2, 3, 1) at node5] Total memory: 3456 Bytes 
+[Rank 46 (1, 3, 2) at node5] Total memory: 3456 Bytes 
+[Rank 47 (0, 3, 3) at node5] Total memory: 3456 Bytes 
+[Rank 48 (3, 0, 0) at node6] Total memory: 6912 Bytes 
+[Rank 49 (2, 0, 1) at node6] Total memory: 3456 Bytes 
+[Rank 50 (1, 0, 2) at node6] Total memory: 3456 Bytes 
+[Rank 51 (0, 0, 3) at node6] Total memory: 3456 Bytes 
+[Rank 52 (2, 1, 0) at node6] Total memory: 6912 Bytes 
+[Rank 53 (1, 1, 1) at node6] Total memory: 3456 Bytes 
+[Rank 54 (0, 1, 2) at node6] Total memory: 3456 Bytes 
+[Rank 55 (3, 1, 3) at node6] Total memory: 3456 Bytes 
+[Rank 56 (1, 2, 0) at node7] Total memory: 6912 Bytes 
+[Rank 57 (0, 2, 1) at node7] Total memory: 3456 Bytes 
+[Rank 58 (3, 2, 2) at node7] Total memory: 3456 Bytes 
+[Rank 59 (2, 2, 3) at node7] Total memory: 3456 Bytes 
+[Rank 60 (0, 3, 0) at node7] Total memory: 6912 Bytes 
+[Rank 61 (3, 3, 1) at node7] Total memory: 3456 Bytes 
+[Rank 62 (2, 3, 2) at node7] Total memory: 3456 Bytes 
+[Rank 63 (1, 3, 3) at node7] Total memory: 3456 Bytes 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] Memory Allocation:    0.000 s 
+[Rank 8 (2, 2, 0) at node1] Memory Allocation:    0.000 s 
+[Rank 9 (1, 2, 1) at node1] Memory Allocation:    0.000 s 
+[Rank 10 (0, 2, 2) at node1] Memory Allocation:    0.000 s 
+[Rank 11 (3, 2, 3) at node1] Memory Allocation:    0.000 s 
+[Rank 12 (1, 3, 0) at node1] Memory Allocation:    0.000 s 
+[Rank 13 (0, 3, 1) at node1] Memory Allocation:    0.000 s 
+[Rank 14 (3, 3, 2) at node1] Memory Allocation:    0.000 s 
+[Rank 15 (2, 3, 3) at node1] Memory Allocation:    0.000 s 
+[Rank 16 (1, 0, 0) at node2] Memory Allocation:    0.000 s 
+[Rank 17 (0, 0, 1) at node2] Memory Allocation:    0.000 s 
+[Rank 18 (3, 0, 2) at node2] Memory Allocation:    0.000 s 
+[Rank 19 (2, 0, 3) at node2] Memory Allocation:    0.000 s 
+[Rank 20 (0, 1, 0) at node2] Memory Allocation:    0.000 s 
+[Rank 21 (3, 1, 1) at node2] Memory Allocation:    0.000 s 
+[Rank 22 (2, 1, 2) at node2] Memory Allocation:    0.000 s 
+[Rank 23 (1, 1, 3) at node2] Memory Allocation:    0.000 s 
+[Rank 24 (3, 2, 0) at node3] Memory Allocation:    0.000 s 
+[Rank 25 (2, 2, 1) at node3] Memory Allocation:    0.000 s 
+[Rank 26 (1, 2, 2) at node3] Memory Allocation:    0.000 s 
+[Rank 27 (0, 2, 3) at node3] Memory Allocation:    0.000 s 
+[Rank 28 (2, 3, 0) at node3] Memory Allocation:    0.000 s 
+[Rank 29 (1, 3, 1) at node3] Memory Allocation:    0.000 s 
+[Rank 30 (0, 3, 2) at node3] Memory Allocation:    0.000 s 
+[Rank 31 (3, 3, 3) at node3] Memory Allocation:    0.000 s 
+[Rank 32 (2, 0, 0) at node4] Memory Allocation:    0.000 s 
+[Rank 33 (1, 0, 1) at node4] Memory Allocation:    0.000 s 
+[Rank 34 (0, 0, 2) at node4] Memory Allocation:    0.000 s 
+[Rank 35 (3, 0, 3) at node4] Memory Allocation:    0.000 s 
+[Rank 36 (1, 1, 0) at node4] Memory Allocation:    0.000 s 
+[Rank 37 (0, 1, 1) at node4] Memory Allocation:    0.000 s 
+[Rank 38 (3, 1, 2) at node4] Memory Allocation:    0.000 s 
+[Rank 39 (2, 1, 3) at node4] Memory Allocation:    0.000 s 
+[Rank 40 (0, 2, 0) at node5] Memory Allocation:    0.000 s 
+[Rank 41 (3, 2, 1) at node5] Memory Allocation:    0.000 s 
+[Rank 42 (2, 2, 2) at node5] Memory Allocation:    0.000 s 
+[Rank 43 (1, 2, 3) at node5] Memory Allocation:    0.000 s 
+[Rank 44 (3, 3, 0) at node5] Memory Allocation:    0.000 s 
+[Rank 45 (2, 3, 1) at node5] Memory Allocation:    0.000 s 
+[Rank 46 (1, 3, 2) at node5] Memory Allocation:    0.000 s 
+[Rank 47 (0, 3, 3) at node5] Memory Allocation:    0.000 s 
+[Rank 48 (3, 0, 0) at node6] Memory Allocation:    0.000 s 
+[Rank 49 (2, 0, 1) at node6] Memory Allocation:    0.000 s 
+[Rank 50 (1, 0, 2) at node6] Memory Allocation:    0.000 s 
+[Rank 51 (0, 0, 3) at node6] Memory Allocation:    0.000 s 
+[Rank 52 (2, 1, 0) at node6] Memory Allocation:    0.000 s 
+[Rank 53 (1, 1, 1) at node6] Memory Allocation:    0.000 s 
+[Rank 54 (0, 1, 2) at node6] Memory Allocation:    0.000 s 
+[Rank 55 (3, 1, 3) at node6] Memory Allocation:    0.000 s 
+[Rank 56 (1, 2, 0) at node7] Memory Allocation:    0.000 s 
+[Rank 57 (0, 2, 1) at node7] Memory Allocation:    0.000 s 
+[Rank 58 (3, 2, 2) at node7] Memory Allocation:    0.000 s 
+[Rank 59 (2, 2, 3) at node7] Memory Allocation:    0.000 s 
+[Rank 60 (0, 3, 0) at node7] Memory Allocation:    0.000 s 
+[Rank 61 (3, 3, 1) at node7] Memory Allocation:    0.000 s 
+[Rank 62 (2, 3, 2) at node7] Memory Allocation:    0.000 s 
+[Rank 63 (1, 3, 3) at node7] Memory Allocation:    0.000 s 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] MatDot Encoding time:    0.011 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] MatDot Encoding time:    0.000 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] MatDot Encoding time:    0.000 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] MatDot Encoding time:    0.000 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] MatDot Encoding time:    0.008 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] MatDot Encoding time:    0.000 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] MatDot Encoding time:    0.000 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] MatDot Encoding time:    0.000 s 
+[Rank 8 (2, 2, 0) at node1] MatDot Encoding time:    0.006 s 
+[Rank 9 (1, 2, 1) at node1] MatDot Encoding time:    0.000 s 
+[Rank 10 (0, 2, 2) at node1] MatDot Encoding time:    0.000 s 
+[Rank 11 (3, 2, 3) at node1] MatDot Encoding time:    0.000 s 
+[Rank 12 (1, 3, 0) at node1] MatDot Encoding time:    0.006 s 
+[Rank 13 (0, 3, 1) at node1] MatDot Encoding time:    0.000 s 
+[Rank 14 (3, 3, 2) at node1] MatDot Encoding time:    0.000 s 
+[Rank 15 (2, 3, 3) at node1] MatDot Encoding time:    0.000 s 
+[Rank 16 (1, 0, 0) at node2] MatDot Encoding time:    0.006 s 
+[Rank 17 (0, 0, 1) at node2] MatDot Encoding time:    0.000 s 
+[Rank 18 (3, 0, 2) at node2] MatDot Encoding time:    0.000 s 
+[Rank 19 (2, 0, 3) at node2] MatDot Encoding time:    0.000 s 
+[Rank 20 (0, 1, 0) at node2] MatDot Encoding time:    0.006 s 
+[Rank 21 (3, 1, 1) at node2] MatDot Encoding time:    0.000 s 
+[Rank 22 (2, 1, 2) at node2] MatDot Encoding time:    0.000 s 
+[Rank 23 (1, 1, 3) at node2] MatDot Encoding time:    0.000 s 
+[Rank 24 (3, 2, 0) at node3] MatDot Encoding time:    0.006 s 
+[Rank 25 (2, 2, 1) at node3] MatDot Encoding time:    0.000 s 
+[Rank 26 (1, 2, 2) at node3] MatDot Encoding time:    0.000 s 
+[Rank 27 (0, 2, 3) at node3] MatDot Encoding time:    0.000 s 
+[Rank 28 (2, 3, 0) at node3] MatDot Encoding time:    0.006 s 
+[Rank 29 (1, 3, 1) at node3] MatDot Encoding time:    0.000 s 
+[Rank 30 (0, 3, 2) at node3] MatDot Encoding time:    0.000 s 
+[Rank 31 (3, 3, 3) at node3] MatDot Encoding time:    0.000 s 
+[Rank 32 (2, 0, 0) at node4] MatDot Encoding time:    0.005 s 
+[Rank 33 (1, 0, 1) at node4] MatDot Encoding time:    0.000 s 
+[Rank 34 (0, 0, 2) at node4] MatDot Encoding time:    0.000 s 
+[Rank 35 (3, 0, 3) at node4] MatDot Encoding time:    0.000 s 
+[Rank 36 (1, 1, 0) at node4] MatDot Encoding time:    0.005 s 
+[Rank 37 (0, 1, 1) at node4] MatDot Encoding time:    0.000 s 
+[Rank 38 (3, 1, 2) at node4] MatDot Encoding time:    0.000 s 
+[Rank 39 (2, 1, 3) at node4] MatDot Encoding time:    0.000 s 
+[Rank 40 (0, 2, 0) at node5] MatDot Encoding time:    0.005 s 
+[Rank 41 (3, 2, 1) at node5] MatDot Encoding time:    0.000 s 
+[Rank 42 (2, 2, 2) at node5] MatDot Encoding time:    0.000 s 
+[Rank 43 (1, 2, 3) at node5] MatDot Encoding time:    0.000 s 
+[Rank 44 (3, 3, 0) at node5] MatDot Encoding time:    0.005 s 
+[Rank 45 (2, 3, 1) at node5] MatDot Encoding time:    0.000 s 
+[Rank 46 (1, 3, 2) at node5] MatDot Encoding time:    0.000 s 
+[Rank 47 (0, 3, 3) at node5] MatDot Encoding time:    0.000 s 
+[Rank 48 (3, 0, 0) at node6] MatDot Encoding time:    0.005 s 
+[Rank 49 (2, 0, 1) at node6] MatDot Encoding time:    0.000 s 
+[Rank 50 (1, 0, 2) at node6] MatDot Encoding time:    0.000 s 
+[Rank 51 (0, 0, 3) at node6] MatDot Encoding time:    0.000 s 
+[Rank 52 (2, 1, 0) at node6] MatDot Encoding time:    0.005 s 
+[Rank 53 (1, 1, 1) at node6] MatDot Encoding time:    0.000 s 
+[Rank 54 (0, 1, 2) at node6] MatDot Encoding time:    0.000 s 
+[Rank 55 (3, 1, 3) at node6] MatDot Encoding time:    0.000 s 
+[Rank 56 (1, 2, 0) at node7] MatDot Encoding time:    0.006 s 
+[Rank 57 (0, 2, 1) at node7] MatDot Encoding time:    0.000 s 
+[Rank 58 (3, 2, 2) at node7] MatDot Encoding time:    0.000 s 
+[Rank 59 (2, 2, 3) at node7] MatDot Encoding time:    0.000 s 
+[Rank 60 (0, 3, 0) at node7] MatDot Encoding time:    0.006 s 
+[Rank 61 (3, 3, 1) at node7] MatDot Encoding time:    0.000 s 
+[Rank 62 (2, 3, 2) at node7] MatDot Encoding time:    0.000 s 
+[Rank 63 (1, 3, 3) at node7] MatDot Encoding time:    0.000 s 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] MPI Scatter time:    0.001 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] MPI Scatter time:    0.009 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] MPI Scatter time:    0.010 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] MPI Scatter time:    0.012 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] MPI Scatter time:    0.000 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] MPI Scatter time:    0.012 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] MPI Scatter time:    0.009 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] MPI Scatter time:    0.009 s 
+[Rank 8 (2, 2, 0) at node1] MPI Scatter time:    0.000 s 
+[Rank 9 (1, 2, 1) at node1] MPI Scatter time:    0.006 s 
+[Rank 10 (0, 2, 2) at node1] MPI Scatter time:    0.007 s 
+[Rank 11 (3, 2, 3) at node1] MPI Scatter time:    0.006 s 
+[Rank 12 (1, 3, 0) at node1] MPI Scatter time:    0.000 s 
+[Rank 13 (0, 3, 1) at node1] MPI Scatter time:    0.006 s 
+[Rank 14 (3, 3, 2) at node1] MPI Scatter time:    0.007 s 
+[Rank 15 (2, 3, 3) at node1] MPI Scatter time:    0.006 s 
+[Rank 16 (1, 0, 0) at node2] MPI Scatter time:    0.000 s 
+[Rank 17 (0, 0, 1) at node2] MPI Scatter time:    0.006 s 
+[Rank 18 (3, 0, 2) at node2] MPI Scatter time:    0.007 s 
+[Rank 19 (2, 0, 3) at node2] MPI Scatter time:    0.006 s 
+[Rank 20 (0, 1, 0) at node2] MPI Scatter time:    0.000 s 
+[Rank 21 (3, 1, 1) at node2] MPI Scatter time:    0.006 s 
+[Rank 22 (2, 1, 2) at node2] MPI Scatter time:    0.007 s 
+[Rank 23 (1, 1, 3) at node2] MPI Scatter time:    0.006 s 
+[Rank 24 (3, 2, 0) at node3] MPI Scatter time:    0.000 s 
+[Rank 25 (2, 2, 1) at node3] MPI Scatter time:    0.006 s 
+[Rank 26 (1, 2, 2) at node3] MPI Scatter time:    0.007 s 
+[Rank 27 (0, 2, 3) at node3] MPI Scatter time:    0.007 s 
+[Rank 28 (2, 3, 0) at node3] MPI Scatter time:    0.000 s 
+[Rank 29 (1, 3, 1) at node3] MPI Scatter time:    0.006 s 
+[Rank 30 (0, 3, 2) at node3] MPI Scatter time:    0.007 s 
+[Rank 31 (3, 3, 3) at node3] MPI Scatter time:    0.007 s 
+[Rank 32 (2, 0, 0) at node4] MPI Scatter time:    0.000 s 
+[Rank 33 (1, 0, 1) at node4] MPI Scatter time:    0.006 s 
+[Rank 34 (0, 0, 2) at node4] MPI Scatter time:    0.006 s 
+[Rank 35 (3, 0, 3) at node4] MPI Scatter time:    0.006 s 
+[Rank 36 (1, 1, 0) at node4] MPI Scatter time:    0.000 s 
+[Rank 37 (0, 1, 1) at node4] MPI Scatter time:    0.006 s 
+[Rank 38 (3, 1, 2) at node4] MPI Scatter time:    0.007 s 
+[Rank 39 (2, 1, 3) at node4] MPI Scatter time:    0.007 s 
+[Rank 40 (0, 2, 0) at node5] MPI Scatter time:    0.001 s 
+[Rank 41 (3, 2, 1) at node5] MPI Scatter time:    0.006 s 
+[Rank 42 (2, 2, 2) at node5] MPI Scatter time:    0.007 s 
+[Rank 43 (1, 2, 3) at node5] MPI Scatter time:    0.007 s 
+[Rank 44 (3, 3, 0) at node5] MPI Scatter time:    0.001 s 
+[Rank 45 (2, 3, 1) at node5] MPI Scatter time:    0.007 s 
+[Rank 46 (1, 3, 2) at node5] MPI Scatter time:    0.007 s 
+[Rank 47 (0, 3, 3) at node5] MPI Scatter time:    0.007 s 
+[Rank 48 (3, 0, 0) at node6] MPI Scatter time:    0.000 s 
+[Rank 49 (2, 0, 1) at node6] MPI Scatter time:    0.006 s 
+[Rank 50 (1, 0, 2) at node6] MPI Scatter time:    0.007 s 
+[Rank 51 (0, 0, 3) at node6] MPI Scatter time:    0.006 s 
+[Rank 52 (2, 1, 0) at node6] MPI Scatter time:    0.001 s 
+[Rank 53 (1, 1, 1) at node6] MPI Scatter time:    0.006 s 
+[Rank 54 (0, 1, 2) at node6] MPI Scatter time:    0.007 s 
+[Rank 55 (3, 1, 3) at node6] MPI Scatter time:    0.006 s 
+[Rank 56 (1, 2, 0) at node7] MPI Scatter time:    0.001 s 
+[Rank 57 (0, 2, 1) at node7] MPI Scatter time:    0.006 s 
+[Rank 58 (3, 2, 2) at node7] MPI Scatter time:    0.007 s 
+[Rank 59 (2, 2, 3) at node7] MPI Scatter time:    0.006 s 
+[Rank 60 (0, 3, 0) at node7] MPI Scatter time:    0.001 s 
+[Rank 61 (3, 3, 1) at node7] MPI Scatter time:    0.007 s 
+[Rank 62 (2, 3, 2) at node7] MPI Scatter time:    0.006 s 
+[Rank 63 (1, 3, 3) at node7] MPI Scatter time:    0.006 s 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] Product Encoding  time:    0.000 s 
+[Rank 8 (2, 2, 0) at node1] Product Encoding  time:    0.000 s 
+[Rank 9 (1, 2, 1) at node1] Product Encoding  time:    0.000 s 
+[Rank 10 (0, 2, 2) at node1] Product Encoding  time:    0.000 s 
+[Rank 11 (3, 2, 3) at node1] Product Encoding  time:    0.000 s 
+[Rank 12 (1, 3, 0) at node1] Product Encoding  time:    0.000 s 
+[Rank 13 (0, 3, 1) at node1] Product Encoding  time:    0.000 s 
+[Rank 14 (3, 3, 2) at node1] Product Encoding  time:    0.000 s 
+[Rank 15 (2, 3, 3) at node1] Product Encoding  time:    0.000 s 
+[Rank 16 (1, 0, 0) at node2] Product Encoding  time:    0.000 s 
+[Rank 17 (0, 0, 1) at node2] Product Encoding  time:    0.000 s 
+[Rank 18 (3, 0, 2) at node2] Product Encoding  time:    0.000 s 
+[Rank 19 (2, 0, 3) at node2] Product Encoding  time:    0.000 s 
+[Rank 20 (0, 1, 0) at node2] Product Encoding  time:    0.000 s 
+[Rank 21 (3, 1, 1) at node2] Product Encoding  time:    0.000 s 
+[Rank 22 (2, 1, 2) at node2] Product Encoding  time:    0.000 s 
+[Rank 23 (1, 1, 3) at node2] Product Encoding  time:    0.000 s 
+[Rank 24 (3, 2, 0) at node3] Product Encoding  time:    0.000 s 
+[Rank 25 (2, 2, 1) at node3] Product Encoding  time:    0.000 s 
+[Rank 26 (1, 2, 2) at node3] Product Encoding  time:    0.000 s 
+[Rank 27 (0, 2, 3) at node3] Product Encoding  time:    0.000 s 
+[Rank 28 (2, 3, 0) at node3] Product Encoding  time:    0.000 s 
+[Rank 29 (1, 3, 1) at node3] Product Encoding  time:    0.000 s 
+[Rank 30 (0, 3, 2) at node3] Product Encoding  time:    0.000 s 
+[Rank 31 (3, 3, 3) at node3] Product Encoding  time:    0.000 s 
+[Rank 32 (2, 0, 0) at node4] Product Encoding  time:    0.000 s 
+[Rank 33 (1, 0, 1) at node4] Product Encoding  time:    0.000 s 
+[Rank 34 (0, 0, 2) at node4] Product Encoding  time:    0.000 s 
+[Rank 35 (3, 0, 3) at node4] Product Encoding  time:    0.000 s 
+[Rank 36 (1, 1, 0) at node4] Product Encoding  time:    0.000 s 
+[Rank 37 (0, 1, 1) at node4] Product Encoding  time:    0.000 s 
+[Rank 38 (3, 1, 2) at node4] Product Encoding  time:    0.000 s 
+[Rank 39 (2, 1, 3) at node4] Product Encoding  time:    0.000 s 
+[Rank 40 (0, 2, 0) at node5] Product Encoding  time:    0.000 s 
+[Rank 41 (3, 2, 1) at node5] Product Encoding  time:    0.000 s 
+[Rank 42 (2, 2, 2) at node5] Product Encoding  time:    0.000 s 
+[Rank 43 (1, 2, 3) at node5] Product Encoding  time:    0.000 s 
+[Rank 44 (3, 3, 0) at node5] Product Encoding  time:    0.000 s 
+[Rank 45 (2, 3, 1) at node5] Product Encoding  time:    0.000 s 
+[Rank 46 (1, 3, 2) at node5] Product Encoding  time:    0.000 s 
+[Rank 47 (0, 3, 3) at node5] Product Encoding  time:    0.000 s 
+[Rank 48 (3, 0, 0) at node6] Product Encoding  time:    0.000 s 
+[Rank 49 (2, 0, 1) at node6] Product Encoding  time:    0.000 s 
+[Rank 50 (1, 0, 2) at node6] Product Encoding  time:    0.000 s 
+[Rank 51 (0, 0, 3) at node6] Product Encoding  time:    0.000 s 
+[Rank 52 (2, 1, 0) at node6] Product Encoding  time:    0.000 s 
+[Rank 53 (1, 1, 1) at node6] Product Encoding  time:    0.000 s 
+[Rank 54 (0, 1, 2) at node6] Product Encoding  time:    0.000 s 
+[Rank 55 (3, 1, 3) at node6] Product Encoding  time:    0.000 s 
+[Rank 56 (1, 2, 0) at node7] Product Encoding  time:    0.000 s 
+[Rank 57 (0, 2, 1) at node7] Product Encoding  time:    0.000 s 
+[Rank 58 (3, 2, 2) at node7] Product Encoding  time:    0.000 s 
+[Rank 59 (2, 2, 3) at node7] Product Encoding  time:    0.000 s 
+[Rank 60 (0, 3, 0) at node7] Product Encoding  time:    0.000 s 
+[Rank 61 (3, 3, 1) at node7] Product Encoding  time:    0.000 s 
+[Rank 62 (2, 3, 2) at node7] Product Encoding  time:    0.000 s 
+[Rank 63 (1, 3, 3) at node7] Product Encoding  time:    0.000 s 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] SUMMA Total time:    0.019 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] SUMMA Total time:    0.024 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] SUMMA Total time:    0.023 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] SUMMA Total time:    0.032 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] SUMMA Total time:    0.019 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] SUMMA Total time:    0.024 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] SUMMA Total time:    0.023 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] SUMMA Total time:    0.033 s 
+[Rank 8 (2, 2, 0) at node1] SUMMA Total time:    0.019 s 
+[Rank 9 (1, 2, 1) at node1] SUMMA Total time:    0.024 s 
+[Rank 10 (0, 2, 2) at node1] SUMMA Total time:    0.023 s 
+[Rank 11 (3, 2, 3) at node1] SUMMA Total time:    0.033 s 
+[Rank 12 (1, 3, 0) at node1] SUMMA Total time:    0.019 s 
+[Rank 13 (0, 3, 1) at node1] SUMMA Total time:    0.024 s 
+[Rank 14 (3, 3, 2) at node1] SUMMA Total time:    0.023 s 
+[Rank 15 (2, 3, 3) at node1] SUMMA Total time:    0.033 s 
+[Rank 16 (1, 0, 0) at node2] SUMMA Total time:    0.019 s 
+[Rank 17 (0, 0, 1) at node2] SUMMA Total time:    0.024 s 
+[Rank 18 (3, 0, 2) at node2] SUMMA Total time:    0.023 s 
+[Rank 19 (2, 0, 3) at node2] SUMMA Total time:    0.033 s 
+[Rank 20 (0, 1, 0) at node2] SUMMA Total time:    0.019 s 
+[Rank 21 (3, 1, 1) at node2] SUMMA Total time:    0.024 s 
+[Rank 22 (2, 1, 2) at node2] SUMMA Total time:    0.023 s 
+[Rank 23 (1, 1, 3) at node2] SUMMA Total time:    0.032 s 
+[Rank 24 (3, 2, 0) at node3] SUMMA Total time:    0.019 s 
+[Rank 25 (2, 2, 1) at node3] SUMMA Total time:    0.025 s 
+[Rank 26 (1, 2, 2) at node3] SUMMA Total time:    0.023 s 
+[Rank 27 (0, 2, 3) at node3] SUMMA Total time:    0.033 s 
+[Rank 28 (2, 3, 0) at node3] SUMMA Total time:    0.019 s 
+[Rank 29 (1, 3, 1) at node3] SUMMA Total time:    0.024 s 
+[Rank 30 (0, 3, 2) at node3] SUMMA Total time:    0.023 s 
+[Rank 31 (3, 3, 3) at node3] SUMMA Total time:    0.032 s 
+[Rank 32 (2, 0, 0) at node4] SUMMA Total time:    0.019 s 
+[Rank 33 (1, 0, 1) at node4] SUMMA Total time:    0.024 s 
+[Rank 34 (0, 0, 2) at node4] SUMMA Total time:    0.023 s 
+[Rank 35 (3, 0, 3) at node4] SUMMA Total time:    0.033 s 
+[Rank 36 (1, 1, 0) at node4] SUMMA Total time:    0.019 s 
+[Rank 37 (0, 1, 1) at node4] SUMMA Total time:    0.024 s 
+[Rank 38 (3, 1, 2) at node4] SUMMA Total time:    0.023 s 
+[Rank 39 (2, 1, 3) at node4] SUMMA Total time:    0.032 s 
+[Rank 40 (0, 2, 0) at node5] SUMMA Total time:    0.019 s 
+[Rank 41 (3, 2, 1) at node5] SUMMA Total time:    0.024 s 
+[Rank 42 (2, 2, 2) at node5] SUMMA Total time:    0.023 s 
+[Rank 43 (1, 2, 3) at node5] SUMMA Total time:    0.032 s 
+[Rank 44 (3, 3, 0) at node5] SUMMA Total time:    0.019 s 
+[Rank 45 (2, 3, 1) at node5] SUMMA Total time:    0.024 s 
+[Rank 46 (1, 3, 2) at node5] SUMMA Total time:    0.023 s 
+[Rank 47 (0, 3, 3) at node5] SUMMA Total time:    0.033 s 
+[Rank 48 (3, 0, 0) at node6] SUMMA Total time:    0.019 s 
+[Rank 49 (2, 0, 1) at node6] SUMMA Total time:    0.025 s 
+[Rank 50 (1, 0, 2) at node6] SUMMA Total time:    0.023 s 
+[Rank 51 (0, 0, 3) at node6] SUMMA Total time:    0.033 s 
+[Rank 52 (2, 1, 0) at node6] SUMMA Total time:    0.019 s 
+[Rank 53 (1, 1, 1) at node6] SUMMA Total time:    0.024 s 
+[Rank 54 (0, 1, 2) at node6] SUMMA Total time:    0.023 s 
+[Rank 55 (3, 1, 3) at node6] SUMMA Total time:    0.032 s 
+[Rank 56 (1, 2, 0) at node7] SUMMA Total time:    0.019 s 
+[Rank 57 (0, 2, 1) at node7] SUMMA Total time:    0.024 s 
+[Rank 58 (3, 2, 2) at node7] SUMMA Total time:    0.023 s 
+[Rank 59 (2, 2, 3) at node7] SUMMA Total time:    0.033 s 
+[Rank 60 (0, 3, 0) at node7] SUMMA Total time:    0.019 s 
+[Rank 61 (3, 3, 1) at node7] SUMMA Total time:    0.024 s 
+[Rank 62 (2, 3, 2) at node7] SUMMA Total time:    0.023 s 
+[Rank 63 (1, 3, 3) at node7] SUMMA Total time:    0.032 s 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] MatDot Decoding time:    0.001 s 
+[Rank 8 (2, 2, 0) at node1] MatDot Decoding time:    0.001 s 
+[Rank 9 (1, 2, 1) at node1] MatDot Decoding time:    0.001 s 
+[Rank 10 (0, 2, 2) at node1] MatDot Decoding time:    0.001 s 
+[Rank 11 (3, 2, 3) at node1] MatDot Decoding time:    0.001 s 
+[Rank 12 (1, 3, 0) at node1] MatDot Decoding time:    0.001 s 
+[Rank 13 (0, 3, 1) at node1] MatDot Decoding time:    0.001 s 
+[Rank 14 (3, 3, 2) at node1] MatDot Decoding time:    0.001 s 
+[Rank 15 (2, 3, 3) at node1] MatDot Decoding time:    0.001 s 
+[Rank 16 (1, 0, 0) at node2] MatDot Decoding time:    0.001 s 
+[Rank 17 (0, 0, 1) at node2] MatDot Decoding time:    0.001 s 
+[Rank 18 (3, 0, 2) at node2] MatDot Decoding time:    0.001 s 
+[Rank 19 (2, 0, 3) at node2] MatDot Decoding time:    0.001 s 
+[Rank 20 (0, 1, 0) at node2] MatDot Decoding time:    0.001 s 
+[Rank 21 (3, 1, 1) at node2] MatDot Decoding time:    0.001 s 
+[Rank 22 (2, 1, 2) at node2] MatDot Decoding time:    0.001 s 
+[Rank 23 (1, 1, 3) at node2] MatDot Decoding time:    0.001 s 
+[Rank 24 (3, 2, 0) at node3] MatDot Decoding time:    0.001 s 
+[Rank 25 (2, 2, 1) at node3] MatDot Decoding time:    0.001 s 
+[Rank 26 (1, 2, 2) at node3] MatDot Decoding time:    0.001 s 
+[Rank 27 (0, 2, 3) at node3] MatDot Decoding time:    0.001 s 
+[Rank 28 (2, 3, 0) at node3] MatDot Decoding time:    0.001 s 
+[Rank 29 (1, 3, 1) at node3] MatDot Decoding time:    0.001 s 
+[Rank 30 (0, 3, 2) at node3] MatDot Decoding time:    0.001 s 
+[Rank 31 (3, 3, 3) at node3] MatDot Decoding time:    0.001 s 
+[Rank 32 (2, 0, 0) at node4] MatDot Decoding time:    0.001 s 
+[Rank 33 (1, 0, 1) at node4] MatDot Decoding time:    0.001 s 
+[Rank 34 (0, 0, 2) at node4] MatDot Decoding time:    0.001 s 
+[Rank 35 (3, 0, 3) at node4] MatDot Decoding time:    0.001 s 
+[Rank 36 (1, 1, 0) at node4] MatDot Decoding time:    0.001 s 
+[Rank 37 (0, 1, 1) at node4] MatDot Decoding time:    0.001 s 
+[Rank 38 (3, 1, 2) at node4] MatDot Decoding time:    0.001 s 
+[Rank 39 (2, 1, 3) at node4] MatDot Decoding time:    0.001 s 
+[Rank 40 (0, 2, 0) at node5] MatDot Decoding time:    0.001 s 
+[Rank 41 (3, 2, 1) at node5] MatDot Decoding time:    0.001 s 
+[Rank 42 (2, 2, 2) at node5] MatDot Decoding time:    0.001 s 
+[Rank 43 (1, 2, 3) at node5] MatDot Decoding time:    0.001 s 
+[Rank 44 (3, 3, 0) at node5] MatDot Decoding time:    0.001 s 
+[Rank 45 (2, 3, 1) at node5] MatDot Decoding time:    0.001 s 
+[Rank 46 (1, 3, 2) at node5] MatDot Decoding time:    0.001 s 
+[Rank 47 (0, 3, 3) at node5] MatDot Decoding time:    0.000 s 
+[Rank 48 (3, 0, 0) at node6] MatDot Decoding time:    0.001 s 
+[Rank 49 (2, 0, 1) at node6] MatDot Decoding time:    0.001 s 
+[Rank 50 (1, 0, 2) at node6] MatDot Decoding time:    0.001 s 
+[Rank 51 (0, 0, 3) at node6] MatDot Decoding time:    0.001 s 
+[Rank 52 (2, 1, 0) at node6] MatDot Decoding time:    0.001 s 
+[Rank 53 (1, 1, 1) at node6] MatDot Decoding time:    0.001 s 
+[Rank 54 (0, 1, 2) at node6] MatDot Decoding time:    0.001 s 
+[Rank 55 (3, 1, 3) at node6] MatDot Decoding time:    0.001 s 
+[Rank 56 (1, 2, 0) at node7] MatDot Decoding time:    0.001 s 
+[Rank 57 (0, 2, 1) at node7] MatDot Decoding time:    0.001 s 
+[Rank 58 (3, 2, 2) at node7] MatDot Decoding time:    0.001 s 
+[Rank 59 (2, 2, 3) at node7] MatDot Decoding time:    0.001 s 
+[Rank 60 (0, 3, 0) at node7] MatDot Decoding time:    0.001 s 
+[Rank 61 (3, 3, 1) at node7] MatDot Decoding time:    0.001 s 
+[Rank 62 (2, 3, 2) at node7] MatDot Decoding time:    0.001 s 
+[Rank 63 (1, 3, 3) at node7] MatDot Decoding time:    0.001 s 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] MPI Reduce time:    0.000 s 
+[Rank 8 (2, 2, 0) at node1] MPI Reduce time:    0.001 s 
+[Rank 9 (1, 2, 1) at node1] MPI Reduce time:    0.000 s 
+[Rank 10 (0, 2, 2) at node1] MPI Reduce time:    0.000 s 
+[Rank 11 (3, 2, 3) at node1] MPI Reduce time:    0.000 s 
+[Rank 12 (1, 3, 0) at node1] MPI Reduce time:    0.001 s 
+[Rank 13 (0, 3, 1) at node1] MPI Reduce time:    0.000 s 
+[Rank 14 (3, 3, 2) at node1] MPI Reduce time:    0.000 s 
+[Rank 15 (2, 3, 3) at node1] MPI Reduce time:    0.000 s 
+[Rank 16 (1, 0, 0) at node2] MPI Reduce time:    0.000 s 
+[Rank 17 (0, 0, 1) at node2] MPI Reduce time:    0.000 s 
+[Rank 18 (3, 0, 2) at node2] MPI Reduce time:    0.000 s 
+[Rank 19 (2, 0, 3) at node2] MPI Reduce time:    0.000 s 
+[Rank 20 (0, 1, 0) at node2] MPI Reduce time:    0.000 s 
+[Rank 21 (3, 1, 1) at node2] MPI Reduce time:    0.000 s 
+[Rank 22 (2, 1, 2) at node2] MPI Reduce time:    0.000 s 
+[Rank 23 (1, 1, 3) at node2] MPI Reduce time:    0.000 s 
+[Rank 24 (3, 2, 0) at node3] MPI Reduce time:    0.000 s 
+[Rank 25 (2, 2, 1) at node3] MPI Reduce time:    0.000 s 
+[Rank 26 (1, 2, 2) at node3] MPI Reduce time:    0.000 s 
+[Rank 27 (0, 2, 3) at node3] MPI Reduce time:    0.000 s 
+[Rank 28 (2, 3, 0) at node3] MPI Reduce time:    0.000 s 
+[Rank 29 (1, 3, 1) at node3] MPI Reduce time:    0.000 s 
+[Rank 30 (0, 3, 2) at node3] MPI Reduce time:    0.000 s 
+[Rank 31 (3, 3, 3) at node3] MPI Reduce time:    0.000 s 
+[Rank 32 (2, 0, 0) at node4] MPI Reduce time:    0.000 s 
+[Rank 33 (1, 0, 1) at node4] MPI Reduce time:    0.000 s 
+[Rank 34 (0, 0, 2) at node4] MPI Reduce time:    0.000 s 
+[Rank 35 (3, 0, 3) at node4] MPI Reduce time:    0.000 s 
+[Rank 36 (1, 1, 0) at node4] MPI Reduce time:    0.000 s 
+[Rank 37 (0, 1, 1) at node4] MPI Reduce time:    0.000 s 
+[Rank 38 (3, 1, 2) at node4] MPI Reduce time:    0.000 s 
+[Rank 39 (2, 1, 3) at node4] MPI Reduce time:    0.000 s 
+[Rank 40 (0, 2, 0) at node5] MPI Reduce time:    0.001 s 
+[Rank 41 (3, 2, 1) at node5] MPI Reduce time:    0.000 s 
+[Rank 42 (2, 2, 2) at node5] MPI Reduce time:    0.001 s 
+[Rank 43 (1, 2, 3) at node5] MPI Reduce time:    0.000 s 
+[Rank 44 (3, 3, 0) at node5] MPI Reduce time:    0.001 s 
+[Rank 45 (2, 3, 1) at node5] MPI Reduce time:    0.000 s 
+[Rank 46 (1, 3, 2) at node5] MPI Reduce time:    0.001 s 
+[Rank 47 (0, 3, 3) at node5] MPI Reduce time:    0.000 s 
+[Rank 48 (3, 0, 0) at node6] MPI Reduce time:    0.000 s 
+[Rank 49 (2, 0, 1) at node6] MPI Reduce time:    0.000 s 
+[Rank 50 (1, 0, 2) at node6] MPI Reduce time:    0.000 s 
+[Rank 51 (0, 0, 3) at node6] MPI Reduce time:    0.000 s 
+[Rank 52 (2, 1, 0) at node6] MPI Reduce time:    0.000 s 
+[Rank 53 (1, 1, 1) at node6] MPI Reduce time:    0.000 s 
+[Rank 54 (0, 1, 2) at node6] MPI Reduce time:    0.000 s 
+[Rank 55 (3, 1, 3) at node6] MPI Reduce time:    0.000 s 
+[Rank 56 (1, 2, 0) at node7] MPI Reduce time:    0.000 s 
+[Rank 57 (0, 2, 1) at node7] MPI Reduce time:    0.000 s 
+[Rank 58 (3, 2, 2) at node7] MPI Reduce time:    0.000 s 
+[Rank 59 (2, 2, 3) at node7] MPI Reduce time:    0.000 s 
+[Rank 60 (0, 3, 0) at node7] MPI Reduce time:    0.000 s 
+[Rank 61 (3, 3, 1) at node7] MPI Reduce time:    0.000 s 
+[Rank 62 (2, 3, 2) at node7] MPI Reduce time:    0.000 s 
+[Rank 63 (1, 3, 3) at node7] MPI Reduce time:    0.000 s 
+[Rank 0 (0, 0, 0) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 1 (3, 0, 1) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 2 (2, 0, 2) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 3 (1, 0, 3) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 4 (3, 1, 0) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 5 (2, 1, 1) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 6 (1, 1, 2) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 7 (0, 1, 3) at sal9000.ornl.gov] Total Execution  time:    0.053 s 
+[Rank 8 (2, 2, 0) at node1] Total Execution  time:    0.054 s 
+[Rank 9 (1, 2, 1) at node1] Total Execution  time:    0.053 s 
+[Rank 10 (0, 2, 2) at node1] Total Execution  time:    0.053 s 
+[Rank 11 (3, 2, 3) at node1] Total Execution  time:    0.053 s 
+[Rank 12 (1, 3, 0) at node1] Total Execution  time:    0.054 s 
+[Rank 13 (0, 3, 1) at node1] Total Execution  time:    0.053 s 
+[Rank 14 (3, 3, 2) at node1] Total Execution  time:    0.053 s 
+[Rank 15 (2, 3, 3) at node1] Total Execution  time:    0.053 s 
+[Rank 16 (1, 0, 0) at node2] Total Execution  time:    0.053 s 
+[Rank 17 (0, 0, 1) at node2] Total Execution  time:    0.053 s 
+[Rank 18 (3, 0, 2) at node2] Total Execution  time:    0.053 s 
+[Rank 19 (2, 0, 3) at node2] Total Execution  time:    0.053 s 
+[Rank 20 (0, 1, 0) at node2] Total Execution  time:    0.053 s 
+[Rank 21 (3, 1, 1) at node2] Total Execution  time:    0.053 s 
+[Rank 22 (2, 1, 2) at node2] Total Execution  time:    0.053 s 
+[Rank 23 (1, 1, 3) at node2] Total Execution  time:    0.053 s 
+[Rank 24 (3, 2, 0) at node3] Total Execution  time:    0.054 s 
+[Rank 25 (2, 2, 1) at node3] Total Execution  time:    0.053 s 
+[Rank 26 (1, 2, 2) at node3] Total Execution  time:    0.053 s 
+[Rank 27 (0, 2, 3) at node3] Total Execution  time:    0.053 s 
+[Rank 28 (2, 3, 0) at node3] Total Execution  time:    0.053 s 
+[Rank 29 (1, 3, 1) at node3] Total Execution  time:    0.053 s 
+[Rank 30 (0, 3, 2) at node3] Total Execution  time:    0.053 s 
+[Rank 31 (3, 3, 3) at node3] Total Execution  time:    0.053 s 
+[Rank 32 (2, 0, 0) at node4] Total Execution  time:    0.053 s 
+[Rank 33 (1, 0, 1) at node4] Total Execution  time:    0.053 s 
+[Rank 34 (0, 0, 2) at node4] Total Execution  time:    0.053 s 
+[Rank 35 (3, 0, 3) at node4] Total Execution  time:    0.053 s 
+[Rank 36 (1, 1, 0) at node4] Total Execution  time:    0.053 s 
+[Rank 37 (0, 1, 1) at node4] Total Execution  time:    0.053 s 
+[Rank 38 (3, 1, 2) at node4] Total Execution  time:    0.053 s 
+[Rank 39 (2, 1, 3) at node4] Total Execution  time:    0.053 s 
+[Rank 40 (0, 2, 0) at node5] Total Execution  time:    0.054 s 
+[Rank 41 (3, 2, 1) at node5] Total Execution  time:    0.053 s 
+[Rank 42 (2, 2, 2) at node5] Total Execution  time:    0.053 s 
+[Rank 43 (1, 2, 3) at node5] Total Execution  time:    0.053 s 
+[Rank 44 (3, 3, 0) at node5] Total Execution  time:    0.053 s 
+[Rank 45 (2, 3, 1) at node5] Total Execution  time:    0.053 s 
+[Rank 46 (1, 3, 2) at node5] Total Execution  time:    0.053 s 
+[Rank 47 (0, 3, 3) at node5] Total Execution  time:    0.053 s 
+[Rank 48 (3, 0, 0) at node6] Total Execution  time:    0.053 s 
+[Rank 49 (2, 0, 1) at node6] Total Execution  time:    0.053 s 
+[Rank 50 (1, 0, 2) at node6] Total Execution  time:    0.053 s 
+[Rank 51 (0, 0, 3) at node6] Total Execution  time:    0.053 s 
+[Rank 52 (2, 1, 0) at node6] Total Execution  time:    0.053 s 
+[Rank 53 (1, 1, 1) at node6] Total Execution  time:    0.053 s 
+[Rank 54 (0, 1, 2) at node6] Total Execution  time:    0.053 s 
+[Rank 55 (3, 1, 3) at node6] Total Execution  time:    0.053 s 
+[Rank 56 (1, 2, 0) at node7] Total Execution  time:    0.053 s 
+[Rank 57 (0, 2, 1) at node7] Total Execution  time:    0.053 s 
+[Rank 58 (3, 2, 2) at node7] Total Execution  time:    0.053 s 
+[Rank 59 (2, 2, 3) at node7] Total Execution  time:    0.053 s 
+[Rank 60 (0, 3, 0) at node7] Total Execution  time:    0.053 s 
+[Rank 61 (3, 3, 1) at node7] Total Execution  time:    0.053 s 
+[Rank 62 (2, 3, 2) at node7] Total Execution  time:    0.053 s 
+[Rank 63 (1, 3, 3) at node7] Total Execution  time:    0.053 s 
+==========================================================================
